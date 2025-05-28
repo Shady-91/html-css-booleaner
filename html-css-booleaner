@@ -7,6 +7,7 @@
 <head>
     <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
     <img src="pattern.png" alt="Pattern Image">
-</body>
+    <body>
+        <h2></h2>
+    </body>
